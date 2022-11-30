@@ -6,7 +6,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.action_chains import ActionChains
 
-from bot_telegram import send_message
+from bot_telegram_messenger import send_message
 
 os.system('cls')
 
